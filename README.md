@@ -4,6 +4,12 @@ The uploaded data includes spatial information on emergency services in the city
 The GeoPackage file contains detailed layers for fire and police services, highlighting accessibility within urban environments. Additionally, a complementary CSV file provides tabular data for further analysis and insights. 
 Use QGIS, a powerful open-source GIS software, to explore and visualize this data, aiding in urban planning, resource allocation, and emergency preparedness efforts
 
+## Download Data
+
+Click on the green Code button.
+Select Download ZIP.
+Extract the downloaded ZIP file to access all files locally on your computer.
+
 ## Download and Install QGIS:
 
 Visit QGIS.org, choose your OS (Windows, macOS, Linux), and follow installation instructions.
